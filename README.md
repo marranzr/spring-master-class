@@ -1,6 +1,9 @@
 # Spring Master Class - Journey from Beginner to Expert
 Learn the magic of Spring Framework. From IOC (Inversion of Control), DI (Dependency Injection), Application Context to the world of Spring Boot, AOP, JDBC and JPA. Get set for an incredible journey.
 
+## Manolo
+En este repositorio hay ejemplos de código relacionados con el curso Spring MasterClass, muy interesantes como ejemplos de uso de Spring
+
 ## Overview
 * [Installing Eclipse, Maven and Java](#installing-tools)
 * [Running Examples](#running-examples)
